@@ -11,4 +11,7 @@ public class Calculator {
 		System.out.println("Substraction is "+(a-b));
 	}
 	
+	public void mult(int a, int b) {
+		System.out.println("Multiplication is "+(a*b));
+	}
 }
